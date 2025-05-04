@@ -3,6 +3,8 @@
 This project provides a simple interactive linear regression tool built in a Jupyter Notebook. It works with any `.csv` file and lets you choose independent (`X`) and dependent (`Y`) variables for single-variable linear regression. 
 This model also help you predict the value of dependent variable base on independent variable.
 
+p/s: for everyone who is struggling with statistic class like me =))
+
 ---
 
 ## 📁 Files
