@@ -16,15 +16,14 @@ p/s: for everyone who is struggling with statistic class like me =))
 
 ---
 
-## 🚀 Features
+## 📊 Features
 
-- 📂 Load any `.csv` file interactively
-- 👀 Preview the dataset
-- ✅ Choose `X` and `Y` columns for regression
-- 📉 Fit a scikit-learn `LinearRegression` model
-- 🔮 Predict:
-  - `Y` from a given `X`
-- 📊 Optional plot of data and regression line
+- Load any `.csv` file interactively
+- Preview the dataset
+- Choose `X` and `Y` columns for regression
+- Fit a scikit-learn `LinearRegression` model
+- Predict: Dependent value (Y) base on independent value (X)
+- Optional plot of data and regression line
 
 ---
 
